@@ -30,3 +30,6 @@ https://onlineexam.apps.binus.ac.id/
 Password akun BINUS baru
 Email: bayu.bagaswara@binus.ac.id
 Password: B@gaswara_12
+
+# Password https://community.deeplearning.ai
+Password: Vientobagus128
